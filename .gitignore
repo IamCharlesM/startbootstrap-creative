@@ -1,5 +1,3 @@
 node_modules
-temp_auto_push.bat
 bower_components
-.gitignore
 branch_structure.json
